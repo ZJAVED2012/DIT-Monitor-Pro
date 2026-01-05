@@ -1,0 +1,5 @@
+{
+  "name": "DIT Monitor Pro",
+  "description": "A high-performance real-time system monitoring dashboard with live metrics, AI-driven insights via Gemini, and comprehensive device management.",
+  "requestFramePermissions": []
+}
